@@ -1,8 +1,8 @@
-#Solution
+# Solution
 
 This is a solution to the 2020 recruitment task (instructions below). It was made in Kotlin using JetPack Compose, Retrofit2, RxJava, Glide.
 
-##Screenshot
+## Screenshot
 ![Screenshot_20240912_210321](https://github.com/user-attachments/assets/13b5042b-15bc-4df2-80ae-74cc3cc9dec6)
 
 
