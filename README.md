@@ -1,11 +1,11 @@
 # Solution
 
-This is a solution to the 2020 recruitment task (instructions below). It was made in Kotlin using JetPack Compose, Retrofit2, RxJava, Glide.
+This is a solution to the 2020 recruitment task (instruction below). It was made in Kotlin using JetPack Compose, Retrofit2, RxJava, Glide.
 
 ## Screenshot
 ![Screenshot_20240912_210321](https://github.com/user-attachments/assets/13b5042b-15bc-4df2-80ae-74cc3cc9dec6)
 
-
+## Instruction
 
 Your task is to implement some parts of the app according to supplied designs and refactor messy
 code already present in the project.
